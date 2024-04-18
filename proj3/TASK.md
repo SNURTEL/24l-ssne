@@ -13,3 +13,4 @@ Uwaga: W zadaniu proszę nie wykorzystywać gotowych architektur o których wspo
 
 W MS Teams przydzieliłem zadanie wszystkim uczestnikom, ale bardzo proszę żeby tylko jeden (dowolny) członek zespołu je zwrócił (proszę się dogadać).
 W razie pytań zapraszam do korespondencji lub na konsultacje.
+
