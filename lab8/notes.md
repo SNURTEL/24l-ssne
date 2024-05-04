@@ -1,0 +1,4 @@
+- nie używac max-pool - utrata danych
+- tanh na koniec w dekoderze 
+- zamiast MSE można adwersarialne funkcje straty (następne zajęcia) albo funkcje straty w oparciu o transformaty (Laplacian pyramid loss)
+- trudniejsze, bardziej jaskrawe kolory - wymagają więcej filtrów, bo trzeba więcej si bardziej dokładnie sumować
